@@ -1,5 +1,4 @@
-# Briefly explain the work that you did on this project: 
-# What code were you given? What code did you create yourself?
+# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
 In project two, I created a while loop to run the application.
 This loop allowed the pirate agent to make actions on movement thorugh exploration, and eventually exploitation.
