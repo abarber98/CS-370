@@ -1,7 +1,9 @@
 # Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
-In project two, I created a while loop to run the application.
+The provided code was for a reinforcement learning algorithm in Python.
+In project two, I created a while loop using Q-learning to run the application.
 This loop allowed the pirate agent to make actions on movement thorugh exploration, and eventually exploitation.
+This learning allows the agent to make informed decisions on its next move throughout a maze.
 
 # Connect your learning from throughout this course to the larger field of computer science:
 
